@@ -119,5 +119,19 @@ a {
 }
 
 @media (min-width: 1440px) {
-    
+    .product-preview-card-component {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        max-width: 600px;
+    }
+
+    .image-preview {
+        background-image: url('images/image-product-desktop.jpg');
+        height: 100%;
+        border-radius: 10px 0 0 10px;
+    }
+
+    .prices {
+        grid-gap: 20px;
+    }
 }
