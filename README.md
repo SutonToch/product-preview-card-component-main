@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com) (TBD)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) (TBD)
+- Live Site URL: [https://sutontoch.github.io/product-preview-card-component-main/](https://sutontoch.github.io/product-preview-card-component-main/)
 
 ## My process
 
